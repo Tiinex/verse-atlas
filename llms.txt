@@ -1,0 +1,5 @@
+verse-atlas
+
+First-party Tiinex Atlas Verse — scalable spatial exploration and visualization of Universe, Workspace, lineage and artifact relationships over the shared Tiinex application data plane.
+
+Grounding boundary: follow repository-local Tasks under .topics/refactor and the controlling Business Turn-2 repository-decomposition frontier.
