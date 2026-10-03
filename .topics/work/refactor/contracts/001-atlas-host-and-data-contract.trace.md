@@ -9,19 +9,19 @@
     - [relative](../001-atlas-verse-isolated-frontier.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
-  - Created At: 2026-09-09 15:48:29
+  - Created At: 2026-09-09 15:48:28
   - Authors: Anchor
   - Why: Decompose verse-atlas work so progress and later Reduction remain local and auditable.
-  - Summary: Establish fast deterministic and browser qualification gates before Atlas grows into a large implementation.
+  - Summary: Define only the App/data-plane capabilities Atlas actually needs; avoid freezing a speculative rendering API.
   - Status: ready/local
 
 ---
 
-# Atlas qualification frontier
+# Atlas host and data contract
 
 ## Objective
 
-Establish fast deterministic and browser qualification gates before Atlas grows into a large implementation.
+Define only the App/data-plane capabilities Atlas actually needs; avoid freezing a speculative rendering API.
 
 ## Done Criteria
 
@@ -44,8 +44,8 @@ Repository-local work for this subarea only. Do not expand into sibling reposito
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-atlas-verse-isolated-frontier.trace.md](../001-atlas-verse-isolated-frontier.trace.md)
-  - Value: Z0ZqaXh0H9CDv8uFNc-wyo8sG4D3-UYxv9-4jDeSDTI
+  - Value: zB0ElmTtmY9zmA9M0ItmO5Jz4aruC51W81dBY2CSmOM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: M-FCUsYUtPnlfYSu6ktJBLTtfwti7MkMf4f4TFkXvKA
+  - Value: H7gi8uCZkBu-vB3oxjt2MWasrkm27e-zAk3HRfrMh_E

@@ -12,16 +12,16 @@
   - Created At: 2026-09-09 15:48:28
   - Authors: Anchor
   - Why: Decompose verse-atlas work so progress and later Reduction remain local and auditable.
-  - Summary: Define only the App/data-plane capabilities Atlas actually needs; avoid freezing a speculative rendering API.
+  - Summary: Develop deterministic spatial projection behind the Atlas boundary while keeping ordinary Tiinex artifacts authoritative.
   - Status: ready/local
 
 ---
 
-# Atlas host and data contract
+# Atlas projection frontier
 
 ## Objective
 
-Define only the App/data-plane capabilities Atlas actually needs; avoid freezing a speculative rendering API.
+Develop deterministic spatial projection behind the Atlas boundary while keeping ordinary Tiinex artifacts authoritative.
 
 ## Done Criteria
 
@@ -44,8 +44,8 @@ Repository-local work for this subarea only. Do not expand into sibling reposito
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-atlas-verse-isolated-frontier.trace.md](../001-atlas-verse-isolated-frontier.trace.md)
-  - Value: Z0ZqaXh0H9CDv8uFNc-wyo8sG4D3-UYxv9-4jDeSDTI
+  - Value: zB0ElmTtmY9zmA9M0ItmO5Jz4aruC51W81dBY2CSmOM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: MvdW75mOAR5T3FUU3QgH9DMwZUk88vOZoeaCIFoEOJ8
+  - Value: Qpz6CQrsAOICt0wvNSaQNQ7FdiDv5YcX4RYqyJ8NjCs

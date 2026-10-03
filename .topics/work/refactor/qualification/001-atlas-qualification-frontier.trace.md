@@ -9,19 +9,19 @@
     - [relative](../001-atlas-verse-isolated-frontier.trace.md)
 - Current
   - Current Schema: [tiinex.task.v1](https://github.com/Tiinex/docs/blob/053d46ce082d4ec261b82abc44ecca403d61e240/.topics/.schemas/core/task/tiinex.task.v1.schema.md)
-  - Created At: 2026-09-09 15:48:28
+  - Created At: 2026-09-09 15:48:29
   - Authors: Anchor
   - Why: Decompose verse-atlas work so progress and later Reduction remain local and auditable.
-  - Summary: Develop deterministic spatial projection behind the Atlas boundary while keeping ordinary Tiinex artifacts authoritative.
+  - Summary: Establish fast deterministic and browser qualification gates before Atlas grows into a large implementation.
   - Status: ready/local
 
 ---
 
-# Atlas projection frontier
+# Atlas qualification frontier
 
 ## Objective
 
-Develop deterministic spatial projection behind the Atlas boundary while keeping ordinary Tiinex artifacts authoritative.
+Establish fast deterministic and browser qualification gates before Atlas grows into a large implementation.
 
 ## Done Criteria
 
@@ -44,8 +44,8 @@ Repository-local work for this subarea only. Do not expand into sibling reposito
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: [001-atlas-verse-isolated-frontier.trace.md](../001-atlas-verse-isolated-frontier.trace.md)
-  - Value: Z0ZqaXh0H9CDv8uFNc-wyo8sG4D3-UYxv9-4jDeSDTI
+  - Value: zB0ElmTtmY9zmA9M0ItmO5Jz4aruC51W81dBY2CSmOM
 
 - [sha256-base64url-c14n-v2](https://github.com/Tiinex/docs/blob/3988951208eb9a8926e84ab42625d4b42fa00c2d/.topics/.validators/sha256-base64url-c14n-v2.validator.md)
   - Towards: self
-  - Value: qL1eyiYJp3P14zNdMQTL6dvIRkgZuTYziIRs3hcoQzM
+  - Value: iMOg8pxQFVlCAUV0d3qjy6Ac6JUYyGpgx_HAVIg6MnY
