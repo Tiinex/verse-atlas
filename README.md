@@ -2,11 +2,11 @@
 
 First-party Tiinex Atlas Verse — scalable spatial exploration and visualization of Universe, Workspace, lineage and artifact relationships over the shared Tiinex application data plane.
 
-## Turn-2 boundary
+## Fresh-start boundary
 
 Own the potentially large Atlas spatial exploration frontier independently from Native and App.
 
-The repository is intentionally bootstrapped with a minimal public module while Turn-2 extraction defines and qualifies the real runtime surface. Do not move implementation here merely to populate the package.
+The repository remains intentionally minimal after the Major 017 fresh-start reduction. No historical extraction/refactor Task is current by default; future Atlas work starts from a new explicit bounded Task with truthful Project ancestry. Do not move implementation here merely to populate the package.
 
 ## Distribution
 
