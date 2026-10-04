@@ -1,8 +1,7 @@
-verse-atlas
+# Tiinex/verse-atlas LLM Bootstrap
 
-First-party Tiinex Atlas Verse — scalable spatial exploration and visualization of Universe, Workspace, lineage and artifact relationships over the shared Tiinex application data plane.
+This repository uses Tiinex. `.topics/**` and qualified source material are semantic/provenance authority; this file is only a bootstrap hint.
 
-Grounding boundary:
-- Start from `.topics/.workspaces/tiinex-verse-atlas.workspace.md` and the Workspace fresh-start Reduction under `.topics/reductions/workspace/`.
-- Historical refactor/viewer execution lineage is reduced; no prior Task is current. Future Atlas work starts from a new explicit bounded Task with truthful Project ancestry.
-- Presentation must consume qualified shared semantics rather than infer domain truth from repository/path layout.
+Use Tiinex Tooling to discover and qualify the Workspace entrypoint under `.topics/.workspaces`, then follow only the qualified artifacts and processes applicable to the current task.
+
+Do not use `llms.txt` or `README.md` as an artifact index, current-work declaration, or substitute for Tiinex discovery/grounding.
